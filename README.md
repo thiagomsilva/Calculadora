@@ -2,7 +2,7 @@
 
 **App Calculadora**
 
-Este projeto foi criado com o objetivo em intensificar os estudos sobre o React Native App, onde foi desenvolvido uma calculadora como um aplicativo de protótipo para consumo de uma API RESTful chamada [mathjs](https://api.mathjs.org). O App foi criado como um aplicativo para dipositvos móveis com o IOS, mas o código e do App deve funcionar para o Android sem maiores problemas.
+Este projeto foi criado com o objetivo em intensificar os estudos sobre o React Native App, onde foi desenvolvido uma calculadora como um aplicativo de protótipo para consumo de uma API RESTful chamada [mathjs](https://api.mathjs.org). O App foi criado como um aplicativo para dipositvos móveis com o IOS, mas o código do App deve funcionar para o Android sem maiores problemas.
 
 **Para execução da aplicação via terminal:**</br>
 - Start da aplicação (setando o caminho do projeto) -> ```react-native run-ios --simulator "iPhone Xs Max"```
